@@ -8,10 +8,10 @@ We have implemented and compared the following architectures:
     - [x] Vanilla RNN
     - [x] LSTM
     - [x] GRU
-- [ ] Language Models
-    - [ ] Vanilla RNN
-    - [ ] LSTM
-    - [ ] GRU
+- [x] Language Models
+    - [x] Vanilla RNN
+    - [x] LSTM
+    - [x] GRU
 
 - [x] [Neural Machine Translation](neural_machine_translation)\
     For Neural Machine Translation, we have implemented the following papers.
@@ -20,11 +20,10 @@ We have implemented and compared the following architectures:
     - [x] [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
     - [x] [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-*The pending tasks and resources for studying and understading the required concepts will be added soon.*
 
 <br />
 
 ### Contributors:
 * [Rishika Bhagwatkar](https://https//github.com/rishika2110)
 * [Khurshed P. Fitter](https://https//github.com/GlazeDonuts)
-
+* [Ajinkya Deshpande](https://https//github.com/AjinkyaDeshpande39)
